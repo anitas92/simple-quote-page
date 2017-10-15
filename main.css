@@ -1,0 +1,22 @@
+body{
+  width: :100%;
+  height: 100vh;
+  background: url(assets/freedom.jpg) no-repeat center;
+  background-size: cover;
+  color: azure;
+  line-height: 1.5;
+}
+
+small {
+  font-size: smaller;
+}
+.author{
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+}
+.wrapper{
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
